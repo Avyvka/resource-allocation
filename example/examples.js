@@ -88,4 +88,4 @@ const project = [
   },
 ];
 
-console.log(resourceAllocator.resolve(project, 7));
+console.log(resourceAllocator.resolve(project, 5));
