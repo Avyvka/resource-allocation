@@ -24,6 +24,5 @@ Outputs to dist/ (ESM, CJS, and UMD formats if configured).
 ### Running tests using NPM Scripts
 ````
 npm run test
-
 ````
 Test files are created under test folder.
